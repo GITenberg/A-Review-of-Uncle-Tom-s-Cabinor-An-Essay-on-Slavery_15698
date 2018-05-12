@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '6204'
     url: http://www.gutenberg.org/2009/agents/6204
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15698#A-Review-of-Uncle-Tom-s-Cabinor-An-Essay-on-Slavery
 gutenberg_bookshelf: Slavery
 gutenberg_issued: '2005-04-24'
 gutenberg_type: Text
